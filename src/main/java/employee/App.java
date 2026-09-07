@@ -14,5 +14,6 @@ public class App{
         } else {
             System.out.println("Status: Inactive");
         }
+        System.out.println("Department: CSE");
     }
 }
